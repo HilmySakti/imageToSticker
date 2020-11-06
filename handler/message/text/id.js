@@ -82,7 +82,7 @@ Menampilkan Syarat dan Kondisi Bot.
 6. *#donasi*
 menampilkan informasi donasi.
 
-Hope you have a great day!✨`
+Semoga Harimu menyenangkan!✨`
 }
 
 exports.textAdmin = () => {
@@ -108,8 +108,8 @@ Untuk menghapus pesan bot (balas pesan bot dengan #del)`
 
 exports.textDonasi = () => {
     return `
-Hai, terimakasih telah menggunakan bot ini, untuk mendukung bot ini kamu dapat membantu dengan berdonasi melalui link berikut:
-1. Saweria: https://saweria.co/yogasakti
+Hai, terimakasih telah menggunakan Hilmy Bot, untuk mendukung bot ini kamu dapat membantu dengan berdonasi melalui link berikut:
+1. Saweria: https://saweria.co/HilmyBot 
 2. Trakteer: https://trakteer.id/red-emperor 
 
 Donasi akan digunakan untuk pengembangan dan pengoperasian bot ini.
